@@ -1,0 +1,41 @@
+@media (max-width: 480px) {
+    
+  .footer {
+    display: flex;
+    color: white; 
+    background-color:  #202027;  
+    margin-top: 0.4rem;
+}
+
+  .footer .container-footer {
+     display: flex;
+     gap: 0.1rem;
+    }
+
+    .list-footer {
+        padding: 0px;
+        margin: 0;
+        list-style: none;
+    }
+    ul {
+        gap: 0.3rem;
+        text-decoration: none;
+        margin-left: -1.5rem;
+        
+    
+    }
+    .container-footer .img-footer, .text-footer{
+       
+        margin-top: 0.6rem;
+        margin-left: 1.3rem;
+    }
+    
+    .text-footer {
+        margin-top: 0;
+        padding: 0rem 0.3rem;
+        margin-left: 0.5rem;
+        text-align: center;
+        font-size: 0.6rem;
+     }
+    
+}

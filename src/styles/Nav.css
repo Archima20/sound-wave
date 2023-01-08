@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;1,200;1,300&display=swap');
+
+@media (max-width: 480px) {
+    .header, img, ul{
+        display: flex;
+    }
+    
+    .header img {
+        margin-top: 1.3rem;
+        margin-left: 1rem;
+    }
+
+    .header ul {
+        padding-inline-start: 0.3rem;
+        margin-top: 2.6rem;
+        gap: 0.8rem;
+        color: white;
+        font-family: poppins;
+        margin-left: 0.5rem
+    }
+
+    .list{
+        text-decoration: none;
+        color: white;
+    }
+
+    .sound{
+        font-size: 1.2rem;
+    }
+
+     .discover{
+        font-size: 1.1rem;
+        color: white;
+     }
+
+     .join{
+        font-size: 1rem;
+        color: white;
+        text-decoration: none;      
+     }
+
+    .body {
+        color: white;  
+    }
+}   

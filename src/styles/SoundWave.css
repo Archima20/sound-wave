@@ -1,0 +1,31 @@
+    
+    @media (max-width: 480px) {
+        
+        *{
+        font-family: poppins, sans-serif;
+    }
+
+    h1 {
+        font-size: 3rem;
+        font-weight: 300;
+        margin-left: 1.3rem;
+        margin-top: 10rem; 
+        font-weight: bold;
+    }
+
+    h3{
+        margin-left: 1.3rem;
+        font-weight: lighter;
+        
+    }
+
+    .join-now {
+        padding: 0.4rem 1rem;
+        border-radius: 0.4rem;
+        text-decoration: none;
+        color: white;
+        background-color: #1762A7;
+        margin-left: 1.3rem;
+    }
+ }
+   

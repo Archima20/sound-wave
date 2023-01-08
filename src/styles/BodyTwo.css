@@ -1,0 +1,46 @@
+@media (max-width: 480px) {
+    
+
+* {
+    font-family: 'Poppins', sans-serif; 
+}
+
+.icons {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.icons img, p{
+    margin-left: 0.9rem;
+    width: 3rem;
+    padding: 0.2rem 0.7rem;
+    background-color: #202027;
+}
+.text {
+    margin-top: 0;
+    padding: 0.1rem 0.7rem;
+    margin-left: 0.9rem;
+    text-align: center;
+    font-size: 0.8rem;
+}
+h2 {
+    font-size: 2rem;
+    margin-left: 1.3rem;
+    margin-top: 4rem;
+
+   }
+
+h4 {
+    margin-left: 1.3rem;
+    font-size: 0.7rem;
+    font-weight: lighter;
+
+}
+.album {
+    width: 12rem;
+    margin-left: 3.5rem;
+    
+}
+
+}

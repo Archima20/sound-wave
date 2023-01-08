@@ -1,0 +1,31 @@
+
+.form-text {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.footer {
+    margin-top: 6rem;
+}
+
+.fun{
+    color: #ff27b3;
+}
+form {
+    margin-top: 4rem;
+    color: white;
+    background-color: #202027;
+}
+
+input {
+    border: 0.1rem solid rgb(87, 51, 87);
+}
+.end {
+    padding: 0.2rem 5.5rem;
+    border-radius: 0.4rem;
+    text-decoration: none;
+    color: white;
+    background-color: #1762A7;
+    margin-left: 1.3rem;
+}
