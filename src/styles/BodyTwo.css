@@ -1,5 +1,5 @@
-@media (max-width: 480px) {
-    
+@media (max-width: 480px) {  
+
 
 * {
     font-family: 'Poppins', sans-serif; 
@@ -28,19 +28,16 @@ h2 {
     font-size: 2rem;
     margin-left: 1.3rem;
     margin-top: 4rem;
-
    }
 
 h4 {
     margin-left: 1.3rem;
     font-size: 0.7rem;
     font-weight: lighter;
-
 }
 .album {
     width: 12rem;
     margin-left: 3.5rem;
-    
 }
 
 }
