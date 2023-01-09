@@ -8,11 +8,10 @@ export default function Home(){
     return(
         <>
             <div>
-                <Nav/>   
+                <Nav/>  
                 <BodyOne/>
                 <Link className="join-now" to ="/join">Join Now</Link>
             </div>
-
             <Outlet/>
         </>
     )

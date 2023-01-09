@@ -3,9 +3,14 @@ import '../styles/Nav.css';
 
 export default function BodyOne(){
     return(
-        <div className="body">
-            <h1>Feel The <br></br>Music</h1> 
-            <h3>Stream over 20 thousand songs <br></br> with one click</h3>
+    <>
+        <div>
+             <div className="circle1"></div>
         </div>
+        <div className="body">
+             <h1>Feel The Music</h1> 
+             <h3>Stream over 20 thousand songs with one click</h3>
+        </div>
+    </>
     )
 }

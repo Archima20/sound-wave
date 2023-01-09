@@ -9,14 +9,17 @@
         font-size: 3rem;
         font-weight: 300;
         margin-left: 1.3rem;
-        margin-top: 10rem; 
+        margin-top: 2rem; 
         font-weight: bold;
+        inline-size: 14rem;
+        overflow-wrap: break-word;
     }
 
     h3{
         margin-left: 1.3rem;
         font-weight: lighter;
-        
+        inline-size: 20rem;
+        overflow-wrap: break-word;
     }
 
     .join-now {
@@ -26,6 +29,42 @@
         color: white;
         background-color: #1762A7;
         margin-left: 1.3rem;
+    }
+    .circle1 {
+        border-radius: 50%;
+        z-index: 1;
+        position: relative;
+        opacity: 1;
+        width: 5.5rem;
+        height: 5.5rem;
+        background-color: #5f46dd1a;
+        margin-left: 6rem;
+    }
+    .circle3 {
+        z-index: 1;
+        position: relative;
+        opacity: 1;
+        width: 10rem;
+        height: 10rem;
+        background-color: #5f46dd1a;
+        clip-path: circle(50% at  bottom right);
+        float: right;
+        margin-top: 2.3rem;
+        margin-left: 1rem;
+    }
+    .circle2 {
+        border-radius: 50%;
+        z-index: 1;
+        position: relative;
+        opacity: 1;
+        width: 5.5rem;
+        height: 5.5rem;
+        background-color: #bc3a801a;
+        float: inline-start;
+        background-position: top;
+        margin-top: 1rem;
+        margin-left: 0.8rem;
+     
     }
  }
    

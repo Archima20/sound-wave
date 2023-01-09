@@ -5,7 +5,7 @@ export default function Form(){
     return(
         <>
             <div className="form-text">
-                <>Join the <br/> <span className="fun"> fun.</span></>
+                <>Join the <span className="fun"> fun.</span></>
                             
             </div>
             <form>

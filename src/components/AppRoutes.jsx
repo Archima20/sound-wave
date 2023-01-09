@@ -4,6 +4,7 @@ import Discover from "../pages/Discover";
 import Join from "../pages/Join";
 
 
+
 export default function AppRoutes(){
     return(
         <BrowserRouter>
@@ -11,6 +12,7 @@ export default function AppRoutes(){
             <Route path="/" element={<SoundWave/>}/> 
             <Route path="/discover" element={<Discover/>}/>
             <Route path="/join" element={<Join/>}/>
+           
         </Routes>
         </BrowserRouter>
     )
